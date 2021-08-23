@@ -5,3 +5,6 @@
 
 ### Task 1
 Fingerprint done!
+
+### Task 2
+Shared memory done!
