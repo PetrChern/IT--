@@ -1,4 +1,7 @@
 # IT-школа С++
 
 ### Task 0
-Done!
+"Hello, World!" done!
+
+### Task 1
+Fingerprint done!
