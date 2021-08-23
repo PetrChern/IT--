@@ -4,5 +4,3 @@ project(shmem)
 add_subdirectory("${PROJECT_SOURCE_DIR}/recieve" ./recieve)
 
 add_subdirectory("${PROJECT_SOURCE_DIR}/send" ./send)
-
-
